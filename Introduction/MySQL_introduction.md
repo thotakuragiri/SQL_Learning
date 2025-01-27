@@ -1,1 +1,0 @@
-This repo is for learining MYSQL basics and andvanced
