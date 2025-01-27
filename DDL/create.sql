@@ -1,7 +1,7 @@
 /* 
 This commnd for creating the employee table with columns 
 
-
+Creating table
 
  */
 
